@@ -1,5 +1,5 @@
 # non-existent-language-translate
-# No existent language translate
+# Non existent language translate
 # 不存在语言翻译器
 ## 开发计划
 带有2版本，分为Python和在线的使用Vue的版本  
